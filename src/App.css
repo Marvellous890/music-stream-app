@@ -1,0 +1,29 @@
+:root {
+    font-family: 'Manrope', sans-serif;
+    --white-72: rgba(255, 255, 255, .72);
+    color: white;
+}
+
+/*body {
+    min-height: 100vh;
+}*/
+
+.white-72 {
+    color: var(--white-72);
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f9fffc;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #ABAFAD;
+    border-radius: 5px;
+}

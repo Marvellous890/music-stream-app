@@ -1,0 +1,14 @@
+.now-playing {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(18, 18, 18, 0.64);
+    backdrop-filter: blur(10px);
+    z-index: 10;
+}
+
+.playBtn {
+    border-radius: 50%;
+    background: linear-gradient(222deg, #FFF 12.65%, rgba(255, 255, 255, 0.00) 216.78%);
+}

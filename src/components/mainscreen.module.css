@@ -1,0 +1,7 @@
+.artist_section {
+    height: 19rem;
+}
+
+.pop_item:hover {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.12) 35.43%, rgba(255, 255, 255, 0.00) 100%);
+}

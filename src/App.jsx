@@ -1,9 +1,18 @@
 import './App.css'
+import NavBar from "./components/NavBar.jsx";
+import NowPlaying from "./components/NowPlaying/NowPlaying.jsx";
+import RightBar from "./components/RightBar.jsx";
+import MainScreen from "./components/MainScreen.jsx";
 
 function App() {
-  return (
-      <h1 className="text-center underline font-bold text-2xl">Hello world</h1>
-  )
+    return (
+        <div className="flex">
+            <NavBar/>
+            <NowPlaying/>
+            <MainScreen/>
+            <RightBar/>
+        </div>
+    );
 }
 
 export default App
