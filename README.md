@@ -1,4 +1,4 @@
-# QR Code Generator
+# Music Stream App
 
 ![music_dashboard](./screenshots/music_dashboard.png)
 
