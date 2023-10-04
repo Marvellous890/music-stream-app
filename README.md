@@ -1,8 +1,10 @@
 # QR Code Generator
 
+![music_dashboard](./screenshots/music_dashboard.png)
+
 ## Introduction
 
-Welcome to music stream app! At this time of writing, it is just an implementation of a design gotten from figma community and is not yet responsive. Pull requests will be highly welcome 🙂. This README will guide you through the project, helping you set it up and get started.
+Welcome to music stream app! At this time of writing, it is just an implementation of a [design](https://www.figma.com/file/MF2MReVYOyz5Omw7OC71PB/Music-Stream-Desktop-(Community)?type=design&t=28ph0Sv5A4MLBRcA-6) gotten from figma community and is not yet responsive. Pull requests will be highly welcome 🙂. This README will guide you through the project, helping you set it up and get started.
 
 ## Table of Contents
 

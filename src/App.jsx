@@ -6,7 +6,7 @@ import MainScreen from "./components/MainScreen.jsx";
 
 function App() {
     return (
-        <div className="flex">
+        <div className="flex relative w-fit">
             <NavBar/>
             <NowPlaying/>
             <MainScreen/>
